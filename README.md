@@ -12,7 +12,7 @@
 
 ## 🪐 About Me
 
-I'm a PhD Candidate at Arizona State University, working with Prof. Sara Walker. I am interested in alien life detection and how to develop more agnostic tools to recognize life's diversity and complexity on other worlds. I studied astrophysics and molecular biology at University College London, and integrates complex systems science into my research. 
+I'm a PhD Candidate at Arizona State University, working with Prof. Sara Walker. I am interested in alien life detection and how to develop more agnostic tools to recognize life's diversity and complexity on other worlds. I studied astrophysics and molecular biology at University College London, and integrate complex systems science into my research. 
 
 ## 🧠 Research Focus
 
